@@ -1,0 +1,88 @@
+{
+  "quiz": [
+    {
+      "id": "kns-5",
+      "title": "5th lecture feedback",
+      "questions": [
+        {
+          "id": 1,
+          "type": "SHORT",
+          "text": "What is your mentor's name?"
+        },
+        {
+          "id": 2,
+          "type": "RADIO",
+          "text": "Was lecturer loud?",
+          "answers": [
+            {
+              "id": 11,
+              "text": "Yes"
+            },
+            {
+              "id": 12,
+              "text": "No"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "type": "CHECK",
+          "text": "What kind of food you'd prefer on next lecture?",
+          "answers": [
+            {
+              "id": 21,
+              "text": "Pizza"
+            },
+            {
+              "id": 22,
+              "text": "Macaronni"
+            },
+            {
+              "id": 23,
+              "text": "Tuna salad"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "LONG",
+          "text": "Flush your heart about lecture"
+        }
+      ]
+    }
+  ],
+  "feedback": [
+    {
+      "quizId": "kns-5",
+      "answers": {
+        "question-1": "Jons"
+      },
+      "id": 1
+    },
+    {
+      "quizId": "kns-5",
+      "answers": {
+        "question-1": "Jans",
+        "question-2": "11",
+        "question-3": [
+          "Macaronni",
+          "Tuna salad"
+        ],
+        "question-4": "ASD"
+      },
+      "id": 2
+    },
+    {
+      "quizId": "kns-5",
+      "answers": {
+        "question-1": "ASD",
+        "question-2": "11",
+        "question-3": [
+          "Pizza"
+        ],
+        "question-4": "ASD"
+      },
+      "id": 3
+    }
+  ]
+}

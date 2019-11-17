@@ -1,0 +1,10 @@
+.radio-answer {
+    margin-top: 1em;
+    text-align: center;
+    width: 100%;
+
+    .radio-group {
+        display: inline-flex;
+        flex-direction: row;
+    }
+}
