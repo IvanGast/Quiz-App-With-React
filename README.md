@@ -1,4 +1,4 @@
-# Async / await, Redux thunk. SFD 5th lecture, Kaunas edition
+# Async / await, Redux thunk. 
 
 ## Goal
 
